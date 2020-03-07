@@ -1,0 +1,28 @@
+.main-page-header {
+  height: 10vh;
+}
+
+.input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card {
+  width: 30vh;
+  height: 30vh;
+  margin: auto;
+  margin-top: 30px;
+  box-shadow: 0px 0px 17px 0px #ddd;
+  padding: 5px;
+}
+
+.card-button {
+  position: relative;
+  top: 17vh;
+}
+
+.card-container {
+  justify-content: space-evenly;
+  display: flex;
+  flex-wrap: wrap;
+}
